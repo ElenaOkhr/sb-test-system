@@ -1187,3 +1187,4 @@ Exception message: null>
 28/03/2018 12:49 [http-bio-8888-exec-5] INFO - <Answer Answer{text='ы'} was added>
 28/03/2018 12:49 [http-bio-8888-exec-7] INFO - <Test Test{name='Тест', quest=[Question{text='Ф'}, Question{text='Ы'}], type=MATH} is solving by User{name='tutor@tutor'}>
 28/03/2018 12:51 [http-bio-8888-exec-1] INFO - <Test Test{name='Тест', quest=[Question{text='Ф'}, Question{text='Ы'}], type=MATH} is solving by User{name='tutor@tutor'}>
+06/04/2018 12:18 [localhost-startStop-1] INFO - <Database successfully initialized>
